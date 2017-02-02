@@ -1,7 +1,7 @@
 {
-  "name": "create-reducers",
+  "name": "create-reducer",
   "version": "1.0.0",
-  "description": "create reducers to use with data-based control flow",
+  "description": "create reducer that uses data-based control flow",
   "main": "index.js",
   "author": "chee <chee@snake.dog>",
   "license": "MIT",
