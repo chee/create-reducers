@@ -1,0 +1,12 @@
+{
+  "name": "create-reducers",
+  "version": "1.0.0",
+  "description": "create reducers to use with data-based control flow",
+  "main": "index.js",
+  "author": "chee <chee@snake.dog>",
+  "license": "MIT",
+  "repository": "https://github.com/chee/create-reducers",
+  "dependencies": {
+    "object-with-default-value": "^1.0.0"
+  }
+}
